@@ -18,6 +18,11 @@ public class StudentTest {
 
         studentKim.showStudentInfo();
 
+        // ====================================================================================================
+
+        System.out.println(studentLee); // com.daffy3.ch03.Student@19469ea2
+        System.out.println(studentKim); // com.daffy3.ch03.Student@13221655
+
     }
 
 }
