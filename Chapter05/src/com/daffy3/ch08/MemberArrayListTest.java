@@ -10,7 +10,6 @@ public class MemberArrayListTest {
         Member memberKang = new Member(1003, "강감찬");
         Member memberHong = new Member(1004, "홍길동");
 
-
         memberArrayList.addMember(memberLee);
         memberArrayList.addMember(memberKim);
         memberArrayList.addMember(memberKang);
